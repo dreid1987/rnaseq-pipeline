@@ -1,0 +1,29 @@
+#Code	Name	Genotype	Body part/cell type	Age	Treatment	Protocol	Bar code	Comments	lane	RNA extract	poly-A	fragmentation	PNK	library	PCR	Lib purify	DUGSIM order #
+DR-01	SRPK3 WT	SRPK3 WT	Brain	Adult	None	RNA-seq 1.0	2	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange. Fragmentation was 3:15 at 90C, then directly to ice. 16 cycles PCR had low signal, so did 4xmore.		4/13/2016	4/21/2016	4/21/2016	4/21/2016	4/22/2016	4/22/2016	4/22/2016	
+DR-02	SRPK3 WT		Brain	Adult	None	RNA-seq 1.0	3	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange. Fragmentation was 3:15 at 90C, then directly to ice. 16 cycles PCR had low signal, so did 4xmore.		4/13/2016	4/21/2016	4/21/2016	4/21/2016	4/22/2016	4/22/2016	FAILED	
+DR-03	SRPK3 WT		Brain	Adult	None	RNA-seq 1.0	4	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange. Fragmentation was 3:15 at 90C, then directly to ice. 16 cycles PCR had low signal, so did 4xmore.		4/13/2016	4/21/2016	4/21/2016	4/21/2016	4/22/2016	4/22/2016	4/22/2016	
+DR-04	SRPK3 -/-	SRPK3 -/-	Brain	Adult	None	RNA-seq 1.0	5	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange. Fragmentation was 3:15 at 90C, then directly to ice. 16 cycles PCR had low signal, so did 4xmore.		4/13/2016	4/21/2016	4/21/2016	4/21/2016	4/22/2016	4/22/2016	4/22/2016	
+DR-05	SRPK3 -/-		Brain	Adult	None	RNA-seq 1.0	6	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange. Fragmentation was 3:15 at 90C, then directly to ice. 16 cycles PCR had low signal, so did 4xmore.		4/13/2016	4/21/2016	4/21/2016	4/21/2016	4/22/2016	4/22/2016	FAILED	
+DR-06	SRPK3 -/-		Brain	Adult	None	RNA-seq 1.0	7	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange. Fragmentation was 3:15 at 90C, then directly to ice. 16 cycles PCR had low signal, so did 4xmore.		4/13/2016	4/21/2016	4/21/2016	4/21/2016	4/22/2016	4/22/2016	4/22/2016	
+DR-07	AGBL4 WT	AGBL4 WT	Brain	Adult	None	RNA-seq 1.0	7	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange		4/13/2016	4/20/2016	4/20/2016	4/20/2016	4/21/2016	4/21/2016	4/21/2016	3394
+DR-08	AGBL4 WT		Brain	Adult	None	RNA-seq 1.0	8	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange		4/13/2016	4/20/2016	4/20/2016	4/20/2016	4/21/2016	4/21/2016	4/21/2016	3394
+DR-09	AGBL4 WT		Brain	Adult	None	RNA-seq 1.0	9	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange		4/13/2016	4/20/2016	4/20/2016	4/20/2016	4/21/2016	4/21/2016	4/21/2016	3394
+DR-10	AGBL4 mut	AGBL4 mut	Brain	Adult	None	RNA-seq 1.0	10	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange		4/13/2016	4/20/2016	4/20/2016	4/20/2016	4/21/2016	4/21/2016	4/21/2016	3394
+DR-11	AGBL4 mut		Brain	Adult	None	RNA-seq 1.0	11	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange		4/13/2016	4/20/2016	4/20/2016	4/20/2016	4/21/2016	4/21/2016	4/21/2016	3394
+DR-12	AGBL4 mut		Brain	Adult	None	RNA-seq 1.0	12	Did initial resuspension in wrong buffer, so had to precipitate for buffer exchange		4/13/2016	4/20/2016	4/20/2016	4/20/2016	4/21/2016	4/21/2016	4/21/2016	3394
+DR-13	SORCS3 WT	SORCS3 WT	Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-14	SORCS3 WT		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-15	SORCS3 WT		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-16	SORCS3 -/-	SORCS3 -/-	Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-17	SORCS3 -/-		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-18	SORCS3 -/-		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-19	gpr134 WT	gpr134 WT	Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-20	gpr134 WT		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-21	gpr134 WT		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-22	gpr134 -/-	gpr134 -/-	Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-23	gpr134 -/-		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-24	gpr134 -/-		Brain	Adult	None	RNA-seq 1.0				4/21/2016							
+DR-25	chd7 WT	chd7 WT	Whole larva	6dpf	None	RNA-seq 1.0		15 embryos per sample		4/21/2016							
+DR-26	chd7 WT		Whole larva	6dpf	None	RNA-seq 1.0		15 embryos per sample		4/21/2016							
+DR-27	chd7 MT	chd7 MT	Whole larva	6dpf	None	RNA-seq 1.0		15 embryos per sample		4/21/2016							
+DR-28	chd7 MT		Whole larva	6dpf	None	RNA-seq 1.0		15 embryos per sample		4/21/2016							
